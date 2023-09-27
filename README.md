@@ -1,4 +1,4 @@
-# Personal Portfolio ⚡️ 
+# Arjun's Personal Portfolio ⚡️ 
 > This repo is a clone of https://varadbhogayata.github.io by Varad Bhogayata
 
 > A clean, beautiful, responsive portfolio template for Software Developers!
