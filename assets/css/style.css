@@ -347,7 +347,7 @@ h3 {
   border-bottom: 5px solid #24305e;
 }
 
-#intro.section .teal {
+#intro.section .dark_purp {
   padding: 0 10px;
 }
 
@@ -542,23 +542,23 @@ small {
   color: #666 !important;
 }
 
-/* main .teal-text */
+/* main .dark_purp-text */
 
-.teal-text {
+.dark_purp-text {
   color: #007380 !important;
 }
 
-/* .teal-text {
+/* .dark_purp-text {
   color: #0b5e86 !important;
 } */
 
-/* .teal */
+/* .dark_purp */
 
-.teal {
+.dark_purp {
   background-color: #007380 !important;
 }
 
-/* .teal {
+/* .dark_purp {
   background-color: #00695c !important;
 } */
 
