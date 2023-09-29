@@ -545,7 +545,7 @@ small {
 /* main .dark_purp-text */
 
 .dark_purp-text {
-  color: #007380 !important;
+  color: #020080 !important;
 }
 
 /* .dark_purp-text {
@@ -555,7 +555,7 @@ small {
 /* .dark_purp */
 
 .dark_purp {
-  background-color: #007380 !important;
+  background-color: rgb(63,0,146) !important;
 }
 
 /* .dark_purp {
