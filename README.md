@@ -15,7 +15,7 @@
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://arshar2411.github.io" target="_blank"><img src="examples/preview.gif">
+    <a href="https://arshar2411.github.io" target="_blank"><img src="examples/preview-new.gif">
   </a>
   </kbd>
 </p>
